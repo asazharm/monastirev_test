@@ -2,19 +2,55 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="315b127d-0f10-47b3-bec9-a60e71e7d7fa" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.babelrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/100ea62f4ed243a83064.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/1ba97dee11968450f303.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/2c363c797056465957d1.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/32e42d07b497aa0bec78.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/456f08ee7601b3cefe62.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/55044ad9a2928ae15ffb.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/57e285ceac670de75fc1.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/58ea564accf2d38c5576.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/5cb97828e2220fc33a4a.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/68770dc355d00589b73c.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/6b5451d6e679430a501c.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/7223c589961ab8ed92e1.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/7a4b4b29ae6d83b7f406.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/87c8ed7afc254e6f3efe.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/96f579e34b9f201dec71.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/97512636deddb04a4fa1.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/9c14a58525ac94336bab.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/a1480300a264ba8f851a.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/a448d492cd747baf626f.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/abad6a5b8d44fe75959f.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/ae1760aa62c63065e73f.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/b1a8cfa87266de2220d9.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/bundle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/c18e49837ffaabb55df2.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/c8d3b323d9bec89f4d31.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/c92d531419101c3137a7.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/c92f3fea1ec768c2a351.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/c9429af3916ae85c4273.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/d2fa75ed384bd7d071db.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/de22c2657a3ee373635d.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/de3ce1f1f30b1f36eaca.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/f10092b0f70c8f1e363d.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/node_modules_web-vitals_dist_web-vitals_es5_min_js.bundle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/store.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webpack.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.eslintcache" beforeDir="false" afterPath="$PROJECT_DIR$/.eslintcache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/logo192.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/logo512.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/manifest.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/robots.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/header.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/header.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/navigation.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/navigation.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/fonts.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/fonts.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/fonts.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/style.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/style.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,6 +61,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -42,6 +79,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="full.screen.before.presentation.mode" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -66,7 +104,10 @@
       <option name="presentableId" value="Default" />
       <updated>1611678890297</updated>
       <workItem from="1611678898428" duration="21037000" />
-      <workItem from="1611750539447" duration="21132000" />
+      <workItem from="1611750539447" duration="21606000" />
+      <workItem from="1611898230687" duration="194000" />
+      <workItem from="1611938363233" duration="13658000" />
+      <workItem from="1611957364655" duration="2072000" />
     </task>
     <servers />
   </component>
@@ -84,5 +125,9 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="v0.2" />
+    <option name="LAST_COMMIT_MESSAGE" value="v0.2" />
   </component>
 </project>

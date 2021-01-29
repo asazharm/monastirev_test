@@ -1,7 +1,6 @@
 import React, {Fragment, Component, useLayoutEffect, useState} from 'react';
 import Sticky from 'react-stickynode';
 import MediaQuery from 'react-responsive'
-import { Tabbordion, TabPanel, TabLabel, TabContent } from 'react-tabbordion'
 
 import Nav from  './navigation'
 import './../styles/style.scss';
@@ -23,17 +22,17 @@ class Header extends Component{
         )
     }
 
-    handleOutClick = () => {
+    handleCloseClick = (value) => {
         this.setState({
-            catalogOpened: false
+            catalogOpened: value
         })
     }
 
     render() {
 
-        let navComponent = this.state.catalogOpened ? <Nav/> : null
+
         return(
-<Fragment>
+    <Fragment>
             <header className="header">
                 <div className="container">
                     <div className="header__inner">
@@ -126,7 +125,9 @@ class Header extends Component{
             </header>
 
         <div className='container'>
-            {navComponent}
+            <Nav categories = {this.props.categories}
+                 navState = {this.state.catalogOpened}
+                closeNav = {this.handleCloseClick}></Nav>
         </div>
 
 </Fragment>
